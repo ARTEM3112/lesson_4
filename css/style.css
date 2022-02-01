@@ -2,8 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Comforter&family=Lato:wght@400;700;900&display=swap');
 
-@import url('https://fonts.googleapis.com/css2? семья= Бальзамик+Санс &family= Comforter & display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
 
 @font-face {
@@ -13,13 +11,8 @@
 	font-style: normal;
 	font-display: swap;
 }
-@font-face {
-	font-family: "BalsamiqSans";
-	src: url("../fonts/BalsamiqSans-Regular.woff2") format("woff2"), url("../fonts/BalsamiqSans-Regular.woff") format("woff");
-	font-weight: 400;
-	font-style: normal;
-	font-display: swap;
-}
+
+
 @font-face {
 	font-family: "Passion+One";
 	src: url("../fonts/PassionOne-Regular.woff2") format("woff2"), url("../fonts/PassionOne-Regular.woff") format("woff");
